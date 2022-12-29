@@ -11,6 +11,11 @@
 	<groupId>com.realworld</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>frontend</module>
+		<module>api</module>
+	</modules>
 	<name>api</name>
 	<description>Real World project</description>
 	<properties>
