@@ -1,5 +1,8 @@
 # ![RealWorld Example App](logo.png)
 
+- "Github Actions badge" mostrando o status workflow referente a branch master (deve ser: passing) </p>
+![CI/CD](https://github.com/thatarocket/realworld/actions/workflows/ci.yml/badge.svg) </p>
+
 > ### [YOUR_FRAMEWORK] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 
